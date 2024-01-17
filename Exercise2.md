@@ -2,6 +2,7 @@
 
 ```bash
 0 0 * * 7 tar -cf /home/user/user_backup.tar /home/user && scp /home/user/user_backup.tar user@192.168.1.100
+```bash
 
 After establishing the SSH connection, the client has to provide a password for the server side to verify.
 Alternatively, we can implement a passwordless approach by using SSH keys.
