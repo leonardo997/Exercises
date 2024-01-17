@@ -9,5 +9,6 @@ The public key can then be shared with the server side.
 Now, the server side has the means to encrypt future traffic, ensuring that only the
 client(with the priivate key) can decrypt that traffic.
 
-Note
+Note:
+
 Of course, for the cronjob to work, it needs to be added to crontab.
