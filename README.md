@@ -9,7 +9,7 @@ Exercise 1 has been implemented in the file `Exercise1.py`. This file contains t
 Below is a brief summary of the exercise:
 
 - **File:** [Exercise1.py](Exercise1.py)
-- **Description:** As requested, the script goes from a base directory path and explore all the files and subfolders in order to determine th interpreter of every file.
+- **Description:** As requested, the script goes from a base directory path and explore all the files and subfolders in order to determine the interpreter of every file.
 
 ### Exercise 2
 
